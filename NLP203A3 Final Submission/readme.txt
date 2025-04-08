@@ -1,0 +1,3 @@
+- main 2 is the basline GRU based model.
+- main 3 is the main model with the highest preformance, with the results saved in predicted_summaries_transformer.txt
+- main 4 is the baseline transformer model with the result saved in predicted_summaries_transformer_1.txt
